@@ -33,6 +33,11 @@ but this is generally not recommended. After all, data should be saved if possib
 
 For users who are using the OnePlus 13 series, please refer to [https://roms.danielspringer.at/](https://roms.danielspringer.at/). 
 
+Some known third-party recovery implementations are as follows. 
+
+- Teamwin Recovery Project (TWRP): [https://twrp.me/](https://twrp.me/)
+- OrangeFox: [https://orangefox.download/](https://orangefox.download/)
+
 ---
 
 ### 底层
@@ -59,4 +64,9 @@ For users who are using the OnePlus 13 series, please refer to [https://roms.dan
 - 主板损坏：更换主板或更换手机（会丢失本地数据）
 - 主板及其它硬件损坏：更换硬件或换手机（会丢失本地数据）
 
-对于一加 13 系列的用户，您可以访问 [https://roms.danielspringer.at/]https://roms.danielspringer.at/)。
+对于一加 13 系列的用户，可以访问 [https://roms.danielspringer.at/]https://roms.danielspringer.at/)。
+
+以下是一些知名的第三方恢复实现。
+
+- Teamwin Recovery Project（TWRP）：[https://twrp.me/](https://twrp.me/)
+- OrangeFox：[https://orangefox.download/](https://orangefox.download/)

@@ -1,4 +1,4 @@
-## Guidelines
+## Links to developer documents
 
 This document offers some links to some useful developer documents. 
 
@@ -10,7 +10,7 @@ This document offers some links to some useful developer documents.
 
 ---
 
-## 指南
+## 开发文档链接
 
 本文档提供一些有用的开发者文档的链接。
 

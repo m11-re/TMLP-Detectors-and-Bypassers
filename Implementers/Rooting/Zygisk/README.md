@@ -8,6 +8,8 @@ This folder aims to archive the latest versions of different Zygisk implementati
 - [NeoZygisk](https://github.com/JingMatrix/NeoZygisk/actions): Suitable for Apatch that does not support Shamiko and be friendly to configure a whitelist superuser tab
 - [ReZygisk](https://github.com/PerformanC/ReZygisk/actions): Suitable for KSU and its branches that are adequately hidden and wishes to reduce battery consumption
 
+Compared with others, Magisk built-in Zygisk can be easily detected, Zygisk Next is closed-source, and NeoZygisk uses ``ptrace``. 
+
 ---
 
 ### Zygisk
@@ -19,3 +21,5 @@ This folder aims to archive the latest versions of different Zygisk implementati
 - [Zygisk Next v1.2.9.1 and before](https://github.com/Dr-TSNG/ZygiskNext/releases)：适用于与 Shamiko 搭配使用的 KSU、Magisk 以及两者的分支的场景
 - [NeoZygisk](https://github.com/JingMatrix/NeoZygisk/actions)：适用于无法与 Shamiko 搭配使用和白名单配置模式的 Apatch 场景
 - [ReZygisk](https://github.com/PerformanC/ReZygisk/actions)：适用于隐藏性已足够并希望减少电量开销的 KSU 及其分支的场景
+
+与其它相比，面具内置 Zygisk 很容易被检测到，Zygisk Next 是闭源的，NeoZygisk 使用 ``ptrace``。
